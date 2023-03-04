@@ -7,4 +7,4 @@ Grupo #2
 -Jennifer Ardon 201810070048
 -Aylin Mareli Funez 201830070020
 -Robin Adalid Giron  201810020300
--Karla Gomez  201720110066
+-Karla Ordoñez  201720110066
